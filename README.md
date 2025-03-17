@@ -44,7 +44,7 @@ Data files should be placed in the same directory as the scripts unless otherwis
 ## Description of Scripts
 
 ### 1. `Main_Yacine`
-- **Purpose**: Integrates multiple datasets, processes precipitation and discharge data, and runs the hydrological model for Swisstech subcatchment.
+- **Purpose**: Integrates multiple datasets, processes precipitation and discharge data, and runs the hydrological model for Swisstech subcatchment.This file contain all the different analysis (failure rate, runoff etc...)
 - **Functions**:
   - Precipitation and discharge data visualization
   - Hydrological modeling with soil and tank reservoirs
